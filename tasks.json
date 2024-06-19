@@ -1,0 +1,10 @@
+[
+    {
+        "description": "create a project",
+        "completed": true
+    },
+    {
+        "description": "upload a project to git",
+        "completed": false
+    }
+]
